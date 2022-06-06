@@ -11,6 +11,6 @@ public class GitTest {
         System.out.println("hello git2");
         System.out.println("hello git2");
         System.out.println("hello git2");
-        System.out.println("hello git2");
+        System.out.println("hello git2意志为转移我、");
     }
 }
